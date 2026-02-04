@@ -36,7 +36,7 @@ This project was created to practice **Java fundamentals** such as loops, condit
 ## Future Improvements
 - Mark tasks as not done (toggle)
 - Save tasks to a file
-- Refactor code into separate methods
+- Restructure the code by creating separate methods
 - Add a GUI in the future
 
 ## Author
